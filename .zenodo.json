@@ -1,0 +1,12 @@
+{
+  "title": "Planar rotators with Hadamard couplings",
+  "description": "Paper (48 pages, PDF and LaTeX source) and code for its computations. A complex Hadamard matrix specifies the magnetic fluxes in an array of superconducting wires coupled by Josephson junctions. For independent uniform phases, the glow determines the energy distribution. We prove polynomiality of its moments for elementary abelian Fourier matrices and compute the moments through order 12 for arbitrary complex Hadamard matrices. The leading coefficients of the high-temperature pressure expansion have a universal Catalan formula. With the junction coupling switched off, the normalized fourth moment of the Fourier observable for two independent periodic Villain chains has an explicit crossover at correlation length proportional to the square root of the matrix order. Its limiting value decreases from 2 to 1 as the rescaled correlation length increases.",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "creators": [
+    {"name": "Chat"},
+    {"name": "Opus"},
+    {"name": "Banica, Teodor", "orcid": "0000-0003-4680-0364", "affiliation": "CY Cergy Paris Université"}
+  ],
+  "keywords": ["planar rotators", "complex Hadamard matrices", "Josephson junction arrays", "Villain model", "Fourier matrices", "Walsh matrices", "glow moments", "high-temperature expansion"]
+}
