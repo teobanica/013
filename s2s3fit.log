@@ -1,0 +1,43 @@
+F_6                        N= 6 relerr(D4 vs 18 S2)=9.6e-13  S2=   216.000  S3=   432.000
+F_7                        N= 7 relerr(D4 vs 18 S2)=3.3e-07  S2=     0.000  S3=     0.000
+F_8                        N= 8 relerr(D4 vs 18 S2)=3.2e-11  S2=   512.000  S3=     0.000
+W_8                        N= 8 relerr(D4 vs 18 S2)=2.8e-10  S2=  3584.000  S3=     0.000
+F_9                        N= 9 relerr(D4 vs 18 S2)=1.2e-07  S2=     0.000  S3=  1458.000
+F_10                       N=10 relerr(D4 vs 18 S2)=1.7e-09  S2=  1000.000  S3=     0.000
+F_11                       N=11 relerr(D4 vs 18 S2)=1.0e-05  S2=     0.000  S3=     0.000
+F_2xQF_3, random           N= 6 relerr(D4 vs 18 S2)=3.8e-11  S2=   216.000  S3=   432.000
+F_{8,5a}, random           N= 8 relerr(D4 vs 18 S2)=3.2e-11  S2=  1360.948  S3=     0.000
+F_{8,5b}, random           N= 8 relerr(D4 vs 18 S2)=4.2e-11  S2=   965.126  S3=     0.000
+F_3xQF_3, random           N= 9 relerr(D4 vs 18 S2)=1.1e-06  S2=     0.000  S3=  1750.693
+T_6                        N= 6 relerr(D4 vs 18 S2)=8.0e-08  S2=     0.000  S3=  1080.000
+BF_6                       N= 6 relerr(D4 vs 18 S2)=4.3e-11  S2=   134.775  S3=    66.486
+H_6^q, q random            N= 6 relerr(D4 vs 18 S2)=1.0e-10  S2=   120.000  S3=     0.000
+H_6^q, q = 1               N= 6 relerr(D4 vs 18 S2)=8.6e-12  S2=   120.000  S3=     0.000
+BN_6^q, q random on arc    N= 6 relerr(D4 vs 18 S2)=4.0e-11  S2=   120.871  S3=     3.920
+BN_6^q, q = i (D_6)        N= 6 relerr(D4 vs 18 S2)=5.3e-11  S2=   120.000  S3=     0.000
+K_6, random                N= 6 relerr(D4 vs 18 S2)=3.3e-11  S2=   139.648  S3=    88.416
+P_7^q, q random            N= 7 relerr(D4 vs 18 S2)=9.6e-11  S2=   312.000  S3=   378.000
+P_7^q, q = 1               N= 7 relerr(D4 vs 18 S2)=6.4e-11  S2=   312.000  S3=   378.000
+R_7^q, q random            N= 7 relerr(D4 vs 18 S2)=5.0e-11  S2=   312.000  S3=   378.000
+F_{8,4}, random            N= 8 relerr(D4 vs 18 S2)=4.3e-11  S2=  1080.513  S3=     0.000
+F_{8,2}, random            N= 8 relerr(D4 vs 18 S2)=1.7e-10  S2=   874.381  S3=     0.000
+K_{8,2}, random            N= 8 relerr(D4 vs 18 S2)=1.0e-10  S2=   460.745  S3=     0.000
+M_{8,1}, random            N= 8 relerr(D4 vs 18 S2)=7.2e-11  S2=   751.453  S3=   283.602
+I_{8,12}                   N= 8 relerr(D4 vs 18 S2)=3.0e-11  S2=   448.000  S3=   288.000
+K_{8,30}                   N= 8 relerr(D4 vs 18 S2)=2.8e-11  S2=   416.000  S3=   216.000
+L_{8,30}                   N= 8 relerr(D4 vs 18 S2)=2.0e-12  S2=   832.000  S3=    72.000
+H_9                        N= 9 relerr(D4 vs 18 S2)=3.8e-11  S2=   529.031  S3=   794.971
+BN_9                       N= 9 relerr(D4 vs 18 S2)=4.6e-11  S2=   432.000  S3=     0.000
+BN_10                      N=10 relerr(D4 vs 18 S2)=3.6e-11  S2=  1828.125  S3=  2926.758
+N_11                       N=11 relerr(D4 vs 18 S2)=3.8e-11  S2=  4227.500  S3=  3031.875
+N=6 p=6: D6 = 423869.2725 S2 + -12048.2377 S3, max residual 2.45e+06
+N=6 p=7: D7 = -42036547.7901 S2 + -7554763.7590 S3, max residual 1.44e+09
+    F_6 88797599.988 216.0 432.0
+    F_2xQF_3, random 88797599.999 216.0 432.0
+    T_6 -14688000.0 0.0 1080.0
+    BF_6 54219988.427 134.775 66.486
+    H_6^q, q random 49910243.04 120.0 0.0
+    H_6^q, q = 1 50004000.002 120.0 0.0
+    BN_6^q, q random on arc 49501216.554 120.871 3.92
+    BN_6^q, q = i (D_6) 50004000.002 120.0 0.0
+    K_6, random 56347682.66 139.648 88.416

@@ -1,0 +1,3 @@
+Tao: S2=0, S3=1080, R=0, T=-3240, moment deviation=-14688000
+Exact H6(q): S2=120, S3=0, T=1920, R= 192*q**4 + 576 + 192/q**4
+Exact H6(q) moment deviation: 518400*q**4 + 48967200 + 518400/q**4

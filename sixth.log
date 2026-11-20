@@ -1,0 +1,19 @@
+Exact coefficient: (4, 2) (2, -2) 72*N**2 - 420*N + 652
+Exact coefficient: (3, 3) (2, -2) 81*N**2 - 513*N + 882
+Exact coefficient: (3, 3) (3, -3) 16
+Exact coefficient: (2, 2, 2) (2, -2, 0) 2*N**2 - 33*N + 130
+Exact coefficient: (2, 2, 2) (2, -1, -1) 16*N**2 - 144*N + 392
+Exact assembly and triangle coefficients: passed
+Exact H6(q): S2=120, S3=0, T=1920, R= 192*q**4 + 576 + 192/q**4
+Exact H6(q) moment deviation: 518400*q**4 + 48967200 + 518400/q**4
+Stored p=6 moments: 17 passed; worst relative error 1.77994983442229e-14
+Tao invariants and equivalence/transposition checks: passed
+Independent grid: F2 moment= 28496 relative error= 1.28e-16
+Independent grid: F3 moment= 12799521 relative error= 5.82e-16
+Independent grid: F4 moment= 768626176 relative error= 3.1e-16
+Independent grid: Walsh4 moment= 795698176 relative error= 8.99e-16
+Independent grid: F4 deformation moment= 791396722.262 relative error= 4.52e-16
+Independent grid: Tao6 moment= 206702101296 relative error= 2.21e-14
+Independent grid: H6(1) moment= 206766793296 relative error= 3.69e-15
+Independent grid: H6(exp(0.37i)) moment= 206765850504 relative error= 2.95e-15
+All sixth-moment checks passed.

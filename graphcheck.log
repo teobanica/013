@@ -1,0 +1,4 @@
+k 1 leading 1 N^2 1 next odd and Walsh 0 0
+k 2 leading -1/2 N^2 1/4 next odd and Walsh 1/4 1/4
+k 3 leading 2/3 N^2 4/9 next odd and Walsh -1 -1
+k 4 leading -5/4 N^2 121/64 next odd and Walsh 15/4 121/32

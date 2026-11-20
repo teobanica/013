@@ -1,0 +1,28 @@
+F_16
+   l=   0.5: formula   1.00000   simulation   0.99954   E|Z|^4 sim   1.8692
+   l=     2: formula   1.00000   simulation   1.00048   E|Z|^4 sim   1.6228
+   l=     8: formula   1.00000   simulation   1.00039   E|Z|^4 sim   1.1616
+   l=    32: formula   1.00000   simulation   0.99998   E|Z|^4 sim   1.0168
+   l=   128: formula   1.00000   simulation   1.00008   E|Z|^4 sim   1.0013
+   l=  1024: formula   1.00000   simulation   0.99999   E|Z|^4 sim   1.0000
+W_16
+   l=   0.5: formula   1.00450   simulation   1.00870   E|Z|^4 sim   1.9012
+   l=     2: formula   1.06567   simulation   1.06707   E|Z|^4 sim   1.9659
+   l=     8: formula   1.01735   simulation   1.01678   E|Z|^4 sim   1.3505
+   l=    32: formula   1.00152   simulation   1.00145   E|Z|^4 sim   1.0541
+   l=   128: formula   1.00011   simulation   1.00033   E|Z|^4 sim   1.0050
+   l=  1024: formula   1.00000   simulation   1.00000   E|Z|^4 sim   1.0001
+had16.3
+   l=   0.5: formula   1.00002   simulation   1.00110   E|Z|^4 sim   1.8727
+   l=     2: formula   1.02013   simulation   1.02146   E|Z|^4 sim   1.7963
+   l=     8: formula   1.00772   simulation   1.00743   E|Z|^4 sim   1.3107
+   l=    32: formula   1.00071   simulation   1.00060   E|Z|^4 sim   1.0449
+   l=   128: formula   1.00005   simulation   1.00040   E|Z|^4 sim   1.0044
+   l=  1024: formula   1.00000   simulation   1.00003   E|Z|^4 sim   1.0001
+bistochastic form of had16.3
+   l=   0.5: formula   1.00456   simulation   1.00067   E|Z|^4 sim   1.8735
+   l=     2: formula   1.57691   simulation   1.57361   E|Z|^4 sim   4.7788
+   l=     8: formula   8.29236   simulation   8.28657   E|Z|^4 sim  76.4753
+   l=    32: formula  13.57756   simulation  13.58050   E|Z|^4 sim 185.5969
+   l=   128: formula  15.35127   simulation  15.35150   E|Z|^4 sim 235.7647
+   l=  1024: formula  15.91723   simulation  15.91723   E|Z|^4 sim 253.3599

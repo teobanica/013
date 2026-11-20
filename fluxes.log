@@ -1,0 +1,29 @@
+F_8: fluxes rebuild H, gauge invariant, distinct-rectangle sum = -N/2 per row pair, S_2=512.00, S_3=0.00 as rectangle sums
+W_8: fluxes rebuild H, gauge invariant, distinct-rectangle sum = -N/2 per row pair, S_2=3584.00, S_3=0.00 as rectangle sums
+T_6: fluxes rebuild H, gauge invariant, distinct-rectangle sum = -N/2 per row pair, S_2=0.00, S_3=1080.00 as rectangle sums
+H_6^q: fluxes rebuild H, gauge invariant, distinct-rectangle sum = -N/2 per row pair, S_2=120.00, S_3=0.00 as rectangle sums
+K_6: fluxes rebuild H, gauge invariant, distinct-rectangle sum = -N/2 per row pair, S_2=160.40, S_3=181.81 as rectangle sums
+Cell fluxes, in units of the flux quantum:
+F_8
+  0.1250 0.1250 0.1250 0.1250 0.1250 0.1250 0.1250
+  0.1250 0.1250 0.1250 0.1250 0.1250 0.1250 0.1250
+  0.1250 0.1250 0.1250 0.1250 0.1250 0.1250 0.1250
+  0.1250 0.1250 0.1250 0.1250 0.1250 0.1250 0.1250
+  0.1250 0.1250 0.1250 0.1250 0.1250 0.1250 0.1250
+  0.1250 0.1250 0.1250 0.1250 0.1250 0.1250 0.1250
+  0.1250 0.1250 0.1250 0.1250 0.1250 0.1250 0.1250
+W_8
+  0.5000 0.5000 0.5000 0.5000 0.5000 0.5000 0.5000
+  0.5000 0.0000 0.5000 0.0000 0.5000 0.0000 0.5000
+  0.5000 0.5000 0.5000 0.5000 0.5000 0.5000 0.5000
+  0.5000 0.0000 0.5000 0.5000 0.5000 0.0000 0.5000
+  0.5000 0.5000 0.5000 0.5000 0.5000 0.5000 0.5000
+  0.5000 0.0000 0.5000 0.0000 0.5000 0.0000 0.5000
+  0.5000 0.5000 0.5000 0.5000 0.5000 0.5000 0.5000
+T_6
+  0.0000 0.3333 0.0000 0.3333 0.0000
+  0.3333 0.3333 0.6667 0.6667 0.6667
+  0.0000 0.6667 0.6667 0.3333 0.6667
+  0.3333 0.6667 0.3333 0.3333 0.0000
+  0.0000 0.6667 0.6667 0.0000 0.3333
+All flux checks passed.

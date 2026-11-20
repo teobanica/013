@@ -1,0 +1,7 @@
+p          : [0, 1, 2, 3, 4, 5]
+P^infty_p(2): [1, 4, 20, 112, 532, -29296]
+P^(2)_p(2)  : [1, 4, 20, 112, 676, 4304]
+F_2 direct  : [1, 4, 20, 112, 676, 4304]
+Hankel minors, generic: [1, 4, -496]
+Hankel minors, Walsh  : [1, 4, 80]
+Hankel checks passed.
