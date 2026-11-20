@@ -1,2 +1,2 @@
 # 013
-Glow of Hadamard matrices with independent and Villain phases (Chat, Opus and Teo)
+Planar rotators with Hadamard couplings (Chat, Opus and Teo)
